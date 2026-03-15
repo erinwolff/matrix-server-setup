@@ -78,7 +78,6 @@ From now on, SSH in as your `matrix` user:
 ```bash
 ssh matrix@YOUR_VPS_IP
 ```
-
 ---
 
 ## Phase 2 — Install Docker
